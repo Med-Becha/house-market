@@ -66,10 +66,12 @@ button {
   font-weight: 600;
   font-size: 1.25rem;
   width: 80%;
-  margin: 0 auto;
+  margin:0 auto;
+  margin-bottom: 2px;
   display: flex;
   align-items: center;
   justify-content: center;
+ 
 }
 
 .removeIcon {
